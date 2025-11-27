@@ -39,3 +39,4 @@ Capitulo_04/
 - Vídeo 5 — Sensibilidade em Sistemas de Controle: https://www.youtube.com/watch?v=yHzXOcCelts
 - Vídeo 6 — Resposta Transitória e Erro de Estado Estacionário: https://www.youtube.com/watch?v=2n2FByA9Kuc
 - Vídeo 7 — Rejeição de Perturbações: https://www.youtube.com/watch?v=K0bnjkFWOUU
+

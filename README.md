@@ -18,6 +18,15 @@ Capitulo_05/
 Capitulo_06/
 	README.md
 	Controle_e_Automação_cap_06.ipynb
+Capitulo_07/
+	README.md 
+	Controle_e_Automação_cap_07.ipynb
+Capitulo_10/
+	README.md 
+	Controle_e_Automação_cap_10.ipynb
+Capitulo_13/
+	README.md 
+	Controle_e_Automação_cap_13.ipynb
 README.md 
 ```
 

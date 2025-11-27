@@ -38,8 +38,10 @@ Capitulo_06/
 
 ## Vídeos e leituras recomendadas
 
-- Notebook (versão local/Colab): https://colab.research.google.com/drive/16I_7KQDE6_PPxTnesftsA3229M8kmiFl?usp=sharing
-- [Vídeo 1 - Conceito de Estabilidade em Sistemas de Controle](https://www.youtube.com/watch?v=RRjz-BnZijI)
-- [Vídeo 2 - Critério de Estabilidade de Routh-Hurwitz](https://www.youtube.com/watch?v=Vpxj4JQGdnM)
-- [Vídeo 2 - Estabilidade Relativa e Deslocamento de Eixos](https://www.youtube.com/watch?v=jzV82SKc9JA)
-- [Vídeo 3 - Variáveis de Estado](https://www.youtube.com/watch?v=u4aMpm0VEHI)
+
+### (Versão consolidada de referência)
+- Google Colab Notebook: https://colab.research.google.com/drive/16I_7KQDE6_PPxTnesftsA3229M8kmiFl?usp=sharing
+- Vídeo 1 - Conceito de Estabilidade em Sistemas de Controle: https://www.youtube.com/watch?v=RRjz-BnZijI
+- Vídeo 2 - Critério de Estabilidade de Routh-Hurwitz: https://www.youtube.com/watch?v=Vpxj4JQGdnM
+- Vídeo 3 - Estabilidade Relativa e Deslocamento de Eixos: https://www.youtube.com/watch?v=jzV82SKc9JA
+- Vídeo 4 - Variáveis de Estado: https://www.youtube.com/watch?v=u4aMpm0VEHI

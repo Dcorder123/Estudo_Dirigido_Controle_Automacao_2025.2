@@ -32,8 +32,10 @@ Capitulo_05/
 
 ## Vídeos e leituras recomendadas
 
-- Notebook (versão local/Colab): https://colab.research.google.com/drive/1UknAS6TtT-yU12_WCEg3gq-gzoTgycqE?usp=sharing
-- [Vídeo 1 - Sinais de Entrada para Teste e Resposta Transitória](https://www.youtube.com/watch?v=J8jp_3KaXLw)
-- [Vídeo 2 - Erro de Estado Estacionário e Tipos de Sistemas](https://www.youtube.com/watch?v=hG7dq-51AAg)
-- [Vídeo 3 - Localização dos Pólos e Zeros e a Resposta no Tempo](https://www.youtube.com/watch?v=OtaorqVoO0k)
-- [Vídeo 4 - Índices de Desempenho (ISE, IAE, ITAE)](https://www.youtube.com/watch?v=0HcUDa0CRPc)
+
+### (Versão consolidada de referência)
+- Google Colab Notebook: https://colab.research.google.com/drive/1UknAS6TtT-yU12_WCEg3gq-gzoTgycqE?usp=sharing
+- Vídeo 1 - Sinais de Entrada para Teste e Resposta Transitória: https://www.youtube.com/watch?v=J8jp_3KaXLw
+- Vídeo 2 - Erro de Estado Estacionário e Tipos de Sistemas: https://www.youtube.com/watch?v=hG7dq-51AAg
+- Vídeo 3 - Localização dos Pólos e Zeros e a Resposta no Tempo: https://www.youtube.com/watch?v=OtaorqVoO0k
+- Vídeo 4 - Índices de Desempenho (ISE, IAE, ITAE): https://www.youtube.com/watch?v=0HcUDa0CRPc
